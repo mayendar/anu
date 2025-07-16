@@ -1,0 +1,1 @@
+console.log('its a java script file')
